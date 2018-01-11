@@ -2,7 +2,7 @@
 
 # combine two set of characters to generate two files:
 # - a complete dictionary, even if some char forms are the same
-# - a dictionary containing only char pairs with difference forms
+# - a dictionary containing only char pairs with different forms
 
 import sys
 
