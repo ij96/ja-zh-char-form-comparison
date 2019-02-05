@@ -41,3 +41,11 @@ python3 compare.py original_forms.txt converted_forms.txt
 ```
 python3 detector.py test.txt
 ```
+
+## To-do
+
+- [ ] 设计更友好的 UI
+- [ ] 找出有一对一关系的字符并自动纠正
+- [ ] 同时检测多个文件
+- [ ] 检测时选择需检测的字符集
+- [ ] 检测结果显示每个字可能属于哪个字符
