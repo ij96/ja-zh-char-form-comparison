@@ -4,6 +4,11 @@
 # - a complete dictionary, even if some char forms are the same
 # - a dictionary containing only char pairs with different forms
 
+# input: two text files of the same length, with one character on each line. The first
+# file should contain the original character forms, the second file should contain the
+# converted character forms in the same positions as in the first file
+#   python3 compare.py original_forms.txt converted_forms.txt
+
 import sys
 
 delimiter = ','
